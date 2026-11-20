@@ -1,0 +1,9 @@
+{
+  "name": "uzbek-tour-hub",
+  "private": true,
+  "type": "module",
+  "description": "Uzbek Tour Hub — statik sayt + Netlify Functions",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}

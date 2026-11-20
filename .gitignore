@@ -1,0 +1,4 @@
+node_modules/
+.env
+.netlify/
+_img_src/

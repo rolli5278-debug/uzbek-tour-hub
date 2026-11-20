@@ -1,0 +1,251 @@
+{
+ "Ze": [
+  {
+   "id": "registan-square",
+   "name": "Registon Square",
+   "price": 55,
+   "img": "/images/registango.jpg",
+   "badge": "⭐ TOP",
+   "category": "historic",
+   "duration": "Full Day (8h)",
+   "description": "The monumental heart of the Timurid Renaissance with Ulugh Beg, Sher-Dor, and Tilya-Kori madrasahs.",
+   "highlights": [
+    "Ulugh Beg Madrasah",
+    "Sher-Dor Golden Lions",
+    "Tilya-Kori Gilded Mosque"
+   ]
+  },
+  {
+   "id": "khiva-old-city",
+   "name": "Khiva Old City",
+   "price": 65,
+   "img": "/images/khivaold.jpg",
+   "badge": "🏆 UNESCO",
+   "category": "historic",
+   "duration": "Full Day (9h)",
+   "description": "The open-air museum city of Itchan Kala enclosed by authentic desert adobe battlements.",
+   "highlights": [
+    "Kalta Minor Minaret",
+    "Juma Mosque 218 Columns",
+    "Kunya-Ark Fortress"
+   ]
+  },
+  {
+   "id": "ark-fortress",
+   "name": "Ark Fortress",
+   "price": 50,
+   "img": "/images/bukharaher.jpg",
+   "badge": "🌟 POPULAR",
+   "category": "historic",
+   "duration": "Half Day (5h)",
+   "description": "The massive 5th-century citadel of the Bukhara Emirs dominating the Registan of Bukhara.",
+   "highlights": [
+    "Poi Kalyan Minaret",
+    "Emir Reception Hall",
+    "Coronation Court"
+   ]
+  },
+  {
+   "id": "khudoyar-palace",
+   "name": "Khudoyar Palace",
+   "price": 45,
+   "img": "/images/kokand.jpg",
+   "badge": "👑 ROYAL",
+   "category": "historic",
+   "duration": "Half Day (4h)",
+   "description": "The Pearl of Kokand, the grand tiled residence of the last ruler of the Kokand Khanate.",
+   "highlights": [
+    "Seven Ornate Courtyards",
+    "Hand-painted Ceilings",
+    "Fergana Tile Masters"
+   ]
+  },
+  {
+   "id": "ak-saray-palace",
+   "name": "Ak-Saray Palace",
+   "price": 40,
+   "img": "/images/oqsaroy.jpg",
+   "badge": "🏛️ HERITAGE",
+   "category": "historic",
+   "duration": "Half Day (4h)",
+   "description": "The legendary ruins of Amir Timur summer palace with towering 65-meter glazed entry portals.",
+   "highlights": [
+    "Timurid Mosaics",
+    "Giant Arch Ruin",
+    "Shakhrisabz Old Town"
+   ]
+  }
+ ],
+ "Qe": [
+  {
+   "id": "amirsoy-resort",
+   "name": "Amirsoy Resort",
+   "price": 70,
+   "img": "/images/amirsoy.jpg",
+   "badge": "⛷️ SKI",
+   "category": "adventure",
+   "duration": "Full Day (8h)",
+   "tagline": "Alp gondolasi & qorli trassalar",
+   "altitude": "2,290 m",
+   "difficulty": "Faol",
+   "rating": 4.9,
+   "popularity": 98,
+   "metrics": [
+    {
+     "icon": "🏔️",
+     "label": "Balandlik",
+     "value": "2,290 m"
+    },
+    {
+     "icon": "⛷️",
+     "label": "Trassalar",
+     "value": "15+ km"
+    },
+    {
+     "icon": "⭐",
+     "label": "Reyting",
+     "value": "4.9/5"
+    }
+   ],
+   "highlights": [
+    "Doppelmayr Gondola Lift",
+    "Alpine Pistes",
+    "Mountain Restaurant Terrace"
+   ]
+  },
+  {
+   "id": "chimgan-peak",
+   "name": "Chimgan Peak",
+   "price": 60,
+   "img": "/images/smena.jpg",
+   "badge": "🥾 HIKE",
+   "category": "adventure",
+   "duration": "Full Day (7h)",
+   "tagline": "O'zbek Shveytsariyasi & kanyonlar",
+   "altitude": "3,309 m",
+   "difficulty": "O'rta",
+   "rating": 4.8,
+   "popularity": 95,
+   "metrics": [
+    {
+     "icon": "🥾",
+     "label": "Trekking",
+     "value": "12 km"
+    },
+    {
+     "icon": "🏔️",
+     "label": "Cho'qqi",
+     "value": "3,309 m"
+    },
+    {
+     "icon": "🌲",
+     "label": "Tabiat",
+     "value": "Musaffo"
+    }
+   ],
+   "highlights": [
+    "Gulkam Canyons",
+    "Beldersay Cableway",
+    "Fresh Mountain Springs"
+   ]
+  },
+  {
+   "id": "charvak-lake",
+   "name": "Charvak Lake",
+   "price": 45,
+   "img": "/images/chorvoq.jpg",
+   "badge": "🏖️ BEACH",
+   "category": "adventure",
+   "duration": "Full Day (8h)",
+   "tagline": "Feruza suv ombori & sohil dami",
+   "altitude": "960 m",
+   "difficulty": "Oson",
+   "rating": 4.9,
+   "popularity": 99,
+   "metrics": [
+    {
+     "icon": "🌊",
+     "label": "Sohil",
+     "value": "Plyaj & Qayiq"
+    },
+    {
+     "icon": "🪂",
+     "label": "Paraplang",
+     "value": "Mavjud"
+    },
+    {
+     "icon": "☀️",
+     "label": "Mavsum",
+     "value": "Yozgi"
+    }
+   ],
+   "highlights": [
+    "Turquoise Water Sports",
+    "Paragliding Flights",
+    "Lakeside Chaykhana"
+   ]
+  }
+ ],
+ "et": [
+  {
+   "id": "fergana-valley",
+   "name": "Fergana Valley",
+   "price": 55,
+   "img": "/images/fergana.jpg",
+   "badge": "🌄 NATURE",
+   "category": "more",
+   "duration": "2 Days",
+   "description": "Lush cradle of silk weaving, Margilan master weavers, and world-famous Rishtan blue ceramics.",
+   "highlights": [
+    "Yodgorlik Silk Factory",
+    "Rishtan Master Ceramicists",
+    "Fruit Orchards"
+   ]
+  },
+  {
+   "id": "aral-sea",
+   "name": "Aral Sea",
+   "price": 120,
+   "img": "/images/orol.jpg",
+   "badge": "🏜️ EXPEDITION",
+   "category": "more",
+   "duration": "2 Days Jeep Safari",
+   "description": "Legendary 4WD desert expedition to the ship cemetery of Muynak and canyons of Ustyurt plateau.",
+   "highlights": [
+    "Muynak Ship Graveyard",
+    "Ustyurt Cliffs & Canyons",
+    "Yurt Camp Night Under Stars"
+   ]
+  },
+  {
+   "id": "nurata-mountains",
+   "name": "Nurata Mountains",
+   "price": 50,
+   "img": "/images/nurota.jpg",
+   "badge": "⛰️ TREK",
+   "category": "more",
+   "duration": "Full Day (8h)",
+   "description": "Chashma holy spring, ancient fortress ruins attributed to Alexander the Great, and yurt camp camel rides.",
+   "highlights": [
+    "Chashma Holy Spring",
+    "Alexander Fortress",
+    "Kyzylkum Desert Safari"
+   ]
+  },
+  {
+   "id": "termez-ruins",
+   "name": "Termez Ruins",
+   "price": 65,
+   "img": "/images/termiz.jpg",
+   "badge": "🏺 ANCIENT",
+   "category": "more",
+   "duration": "Full Day (8h)",
+   "description": "Fascinating southern Silk Road junction with Buddhist monastery complexes Fayaztepa and Karatepa.",
+   "highlights": [
+    "Fayaztepa Buddhist Stupa",
+    "Al-Hakim at-Termizi Complex",
+    "Sultan Saodat Necropolis"
+   ]
+  }
+ ]
+}
