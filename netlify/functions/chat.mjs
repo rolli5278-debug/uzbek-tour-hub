@@ -6,8 +6,8 @@ import { CITIES, cityKey, normalizeDates, searchUrl, searchHotels, liveEnabled }
 
 const API_URL = "https://api.anthropic.com/v1/messages";
 const MODEL = () => process.env.ANTHROPIC_MODEL || "claude-haiku-5-5";
-// Netlify oddiy funksiyalari ~10 soniyada to'xtatiladi; vaqt byudjeti shunga moslangan
-const BUDGET_MS = () => Number(process.env.CHAT_TIMEOUT_MS) || 9000;
+// Netlify sinxron funksiyalari 60 soniyada to'xtatiladi; toza xato qaytarish uchun 50 s byudjet
+const BUDGET_MS = () => Number(process.env.CHAT_TIMEOUT_MS) || 50000;
 const MAX_MSG = 2000;
 const MAX_HISTORY = 16;
 const MAX_TOOL_ROUNDS = 3;
